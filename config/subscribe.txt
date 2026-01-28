@@ -1,6 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+#iptv神器Pro的组播地址
+#上海地区
+http://iptv.cqshushu.com/index.php?s=116.233.38.8%3A8888&t=multicast&channels=1&format=m3u
+http://iptv.cqshushu.com/index.php?s=58.37.188.227%3A4022&t=multicast&channels=1&format=m3u
+http://iptv.cqshushu.com/index.php?s=58.38.126.7%3A4022&t=multicast&channels=1&format=m3u
+
+#山西地区
+http://iptv.cqshushu.com/?s=183.185.53.156%3A89&t=multicast&channels=1&format=m3u
+http://iptv.cqshushu.com/?s=113.25.105.102%3A10000&t=multicast&channels=1&format=m3u
+http://iptv.cqshushu.com/?s=118.78.196.6%3A55555&t=multicast&channels=1&format=m3u
 
 
 
