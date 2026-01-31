@@ -19,8 +19,6 @@ http://116.233.38.8:8888/rtp/233.18.204.87:5140
 http://113.25.105.102:10000/rtp/239.1.1.41:8041
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://010.112114.xyz/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://116.233.38.8:8888/rtp/233.18.204.51:5140
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://010.112114.xyz/logo/东方卫视.png" group-title="卫视频道",东方卫视
-http://116.233.38.8:8888/rtp/233.18.204.224:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://010.112114.xyz/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://116.233.38.8:8888/rtp/233.18.204.226:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://010.112114.xyz/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -87,6 +85,8 @@ http://113.25.105.102:10000/rtp/239.1.1.33:8033
 http://113.25.105.102:10000/rtp/239.1.1.71:8071
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://010.112114.xyz/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://116.233.38.8:8888/rtp/233.18.204.108:5140
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://010.112114.xyz/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://113.25.105.102:10000/rtp/239.1.1.30:8030
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://010.112114.xyz/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://116.233.38.8:8888/rtp/233.18.204.96:5140
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://010.112114.xyz/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
@@ -109,8 +109,12 @@ http://116.233.38.8:8888/rtp/233.18.204.103:5140
 http://113.25.105.102:10000/rtp/239.1.1.48:8048
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://010.112114.xyz/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://116.233.38.8:8888/rtp/233.18.204.230:5140
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://010.112114.xyz/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://113.25.105.102:10000/rtp/239.1.1.56:8056
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://010.112114.xyz/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://116.233.38.8:8888/rtp/233.18.204.110:5140
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://010.112114.xyz/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://113.25.105.102:10000/rtp/239.1.1.51:8051
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://010.112114.xyz/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://113.25.105.102:10000/rtp/239.1.1.53:8053
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://010.112114.xyz/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
@@ -523,5 +527,5 @@ url
 url
 #EXTINF:-1 tvg-name="百事通动画4K" tvg-logo="https://010.112114.xyz/logo/百事通动画4K.png" group-title="content.no_result_channel_genre",百事通动画4K
 url
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-01-31 18:21:29
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-02-01 06:19:48
 http://116.233.38.8:8888/rtp/233.18.204.177:5140
