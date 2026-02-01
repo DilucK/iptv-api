@@ -21,6 +21,10 @@ http://113.25.105.102:10000/rtp/239.1.1.41:8041
 http://116.233.38.8:8888/rtp/233.18.204.51:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://010.112114.xyz/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://116.233.38.8:8888/rtp/233.18.204.226:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://010.112114.xyz/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://116.233.38.8:8888/rtp/233.18.204.85:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://010.112114.xyz/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://113.25.105.102:10000/rtp/239.1.1.35:8035
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://010.112114.xyz/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://116.233.38.8:8888/rtp/233.18.204.227:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://010.112114.xyz/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -89,6 +93,8 @@ http://116.233.38.8:8888/rtp/233.18.204.108:5140
 http://113.25.105.102:10000/rtp/239.1.1.30:8030
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://010.112114.xyz/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://116.233.38.8:8888/rtp/233.18.204.96:5140
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://010.112114.xyz/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://113.25.105.102:10000/rtp/239.1.1.42:8042
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://010.112114.xyz/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://113.25.105.102:10000/rtp/239.1.1.60:8060
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://010.112114.xyz/logo/广东卫视.png" group-title="卫视频道",广东卫视
@@ -123,6 +129,8 @@ http://116.233.38.8:8888/rtp/233.18.204.220:5140
 http://113.25.105.102:10000/rtp/239.1.1.59:8059
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://010.112114.xyz/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://116.233.38.8:8888/rtp/233.18.204.222:5140
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://010.112114.xyz/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://113.25.105.102:10000/rtp/239.1.1.57:8057
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://010.112114.xyz/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://116.233.38.8:8888/rtp/233.18.204.221:5140
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://010.112114.xyz/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
@@ -142,7 +150,11 @@ http://116.233.38.8:8888/rtp/233.18.204.109:5140
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://010.112114.xyz/logo/卡酷少儿.png" group-title="动漫卡通",卡酷少儿
 http://113.25.105.102:10000/rtp/239.1.1.62:8062
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://010.112114.xyz/logo/动漫秀场.png" group-title="动漫卡通",动漫秀场
+http://116.233.38.8:8888/rtp/233.18.204.46:5140
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://010.112114.xyz/logo/动漫秀场.png" group-title="动漫卡通",动漫秀场
 http://116.233.38.8:8888/rtp/233.18.204.54:5140
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://010.112114.xyz/logo/动漫秀场.png" group-title="动漫卡通",动漫秀场
+http://113.25.105.102:10000/rtp/239.1.1.80:8080
 #EXTINF:-1 tvg-name="山西文体生活" tvg-logo="https://010.112114.xyz/logo/山西文体生活.png" group-title="山西频道",山西文体生活
 http://113.25.105.102:10000/rtp/239.1.1.6:8006
 #EXTINF:-1 tvg-name="山西社会与法治" tvg-logo="https://010.112114.xyz/logo/山西社会与法治.png" group-title="山西频道",山西社会与法治
@@ -527,5 +539,5 @@ url
 url
 #EXTINF:-1 tvg-name="百事通动画4K" tvg-logo="https://010.112114.xyz/logo/百事通动画4K.png" group-title="content.no_result_channel_genre",百事通动画4K
 url
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-02-01 06:19:48
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-02-01 18:22:19
 http://116.233.38.8:8888/rtp/233.18.204.177:5140
