@@ -34,7 +34,11 @@ http://116.233.38.8:8888/rtp/233.18.204.86:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://010.112114.xyz/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://113.25.105.102:10000/rtp/239.1.1.28:8028
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://010.112114.xyz/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://116.233.38.8:8888/rtp/233.18.204.229:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://010.112114.xyz/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://116.233.38.8:8888/rtp/233.18.204.84:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://010.112114.xyz/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://113.25.105.102:10000/rtp/239.1.1.38:8038
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://010.112114.xyz/logo/山东卫视.png" group-title="卫视频道",山东卫视
 http://116.233.38.8:8888/rtp/233.18.204.91:5140
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://010.112114.xyz/logo/天津卫视.png" group-title="卫视频道",天津卫视
@@ -543,5 +547,5 @@ url
 url
 #EXTINF:-1 tvg-name="百事通动画4K" tvg-logo="https://010.112114.xyz/logo/百事通动画4K.png" group-title="content.no_result_channel_genre",百事通动画4K
 url
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-02-11 06:36:37
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-02-11 18:45:27
 http://116.233.38.8:8888/rtp/233.18.204.177:5140
