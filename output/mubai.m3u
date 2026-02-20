@@ -7,6 +7,8 @@ http://116.233.38.8:8888/rtp/233.18.204.176:5140
 http://116.233.38.8:8888/rtp/233.18.204.181:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://010.112114.xyz/logo/游戏风云.png" group-title="体育频道",游戏风云
 http://116.233.38.8:8888/rtp/233.18.204.44:5140
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://010.112114.xyz/logo/游戏风云.png" group-title="体育频道",游戏风云
+http://113.25.105.102:10000/rtp/239.1.1.83:8083
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://010.112114.xyz/logo/山西卫视.png" group-title="卫视频道",山西卫视
 http://116.233.38.8:8888/rtp/233.18.204.211:5140
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://010.112114.xyz/logo/山西卫视.png" group-title="卫视频道",山西卫视
@@ -40,7 +42,11 @@ http://116.233.38.8:8888/rtp/233.18.204.84:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://010.112114.xyz/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://113.25.105.102:10000/rtp/239.1.1.38:8038
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://010.112114.xyz/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://116.233.38.8:8888/rtp/233.18.204.228:5140
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://010.112114.xyz/logo/山东卫视.png" group-title="卫视频道",山东卫视
 http://116.233.38.8:8888/rtp/233.18.204.91:5140
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://010.112114.xyz/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://113.25.105.102:10000/rtp/239.1.1.47:8047
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://010.112114.xyz/logo/天津卫视.png" group-title="卫视频道",天津卫视
 http://116.233.38.8:8888/rtp/233.18.204.97:5140
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://010.112114.xyz/logo/天津卫视.png" group-title="卫视频道",天津卫视
@@ -77,6 +83,8 @@ http://116.233.38.8:8888/rtp/233.18.204.90:5140
 http://113.25.105.102:10000/rtp/239.1.1.37:8037
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://010.112114.xyz/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://116.233.38.8:8888/rtp/233.18.204.93:5140
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://010.112114.xyz/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://113.25.105.102:10000/rtp/239.1.1.44:8044
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://010.112114.xyz/logo/江西卫视.png" group-title="卫视频道",江西卫视
 http://116.233.38.8:8888/rtp/233.18.204.95:5140
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://010.112114.xyz/logo/江西卫视.png" group-title="卫视频道",江西卫视
@@ -221,6 +229,8 @@ http://113.25.105.102:10000/rtp/239.1.1.110:8110
 http://113.25.105.102:10000/rtp/239.1.1.87:8087
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://010.112114.xyz/logo/快乐垂钓.png" group-title="中数传媒",快乐垂钓
 http://116.233.38.8:8888/rtp/233.18.204.42:5140
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://010.112114.xyz/logo/快乐垂钓.png" group-title="中数传媒",快乐垂钓
+http://113.25.105.102:10000/rtp/239.1.1.86:8086
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://010.112114.xyz/logo/北京卫视4K.png" group-title="4K节目",北京卫视4K
 http://116.233.38.8:8888/rtp/233.18.204.209:5140
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://010.112114.xyz/logo/北京卫视4K.png" group-title="4K节目",北京卫视4K
@@ -273,6 +283,8 @@ http://116.233.38.8:8888/rtp/233.18.204.226:5140
 http://116.233.38.8:8888/rtp/233.18.204.85:5140
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://010.112114.xyz/logo/江苏卫视4K.png" group-title="4K节目",江苏卫视4K
 http://113.25.105.102:10000/rtp/239.1.1.35:8035
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://010.112114.xyz/logo/欢笑剧场4K.png" group-title="4K节目",欢笑剧场4K
+http://116.233.38.8:8888/rtp/233.18.204.115:5140
 #EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://010.112114.xyz/logo/欢笑剧场4K.png" group-title="4K节目",欢笑剧场4K
 http://116.233.38.8:8888/rtp/233.18.204.205:5140
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://010.112114.xyz/logo/CCTV1.png" group-title="content.no_result_channel_genre",CCTV-1
@@ -547,5 +559,5 @@ url
 url
 #EXTINF:-1 tvg-name="百事通动画4K" tvg-logo="https://010.112114.xyz/logo/百事通动画4K.png" group-title="content.no_result_channel_genre",百事通动画4K
 url
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-02-20 18:33:58
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-02-21 06:22:28
 http://116.233.38.8:8888/rtp/233.18.204.177:5140
