@@ -1,6 +1,2 @@
-Name: 山东卫视, URL: http://116.233.38.8:8888/rtp/233.18.204.91:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 安徽卫视, URL: http://116.233.38.8:8888/rtp/233.18.204.93:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 游戏风云, URL: http://116.233.38.8:8888/rtp/233.18.204.44:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 快乐垂钓, URL: http://116.233.38.8:8888/rtp/233.18.204.42:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 欢笑剧场4K, URL: http://116.233.38.8:8888/rtp/233.18.204.205:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 3840x2160
-Name: 第一剧场, URL: http://116.233.38.8:8888/rtp/233.18.204.184:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 老故事, URL: http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8国外频道2026-06-17, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 老故事, URL: http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
