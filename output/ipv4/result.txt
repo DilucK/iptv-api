@@ -129,6 +129,13 @@
 环球旅游,http://113.25.105.102:10000/rtp/239.1.1.116:8116
 生态环境,http://113.25.105.102:10000/rtp/239.1.1.110:8110
 老故事,http://113.25.105.102:10000/rtp/239.1.1.87:8087
+老故事,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8国外频道2026-06-17
+老故事,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+老故事,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+老故事,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+老故事,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+老故事,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+老故事,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
 快乐垂钓,http://116.233.38.8:8888/rtp/233.18.204.42:5140
 快乐垂钓,http://113.25.105.102:10000/rtp/239.1.1.86:8086
 
@@ -301,4 +308,4 @@ CCTV16 4K,url
 百事通动画4K,url
 
 🕘️更新时间,#genre#
-2026-06-17 21:39:28,http://116.233.38.8:8888/rtp/233.18.204.177:5140
+2026-06-18 07:20:11,http://116.233.38.8:8888/rtp/233.18.204.177:5140

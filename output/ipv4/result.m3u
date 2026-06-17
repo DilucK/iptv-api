@@ -227,6 +227,20 @@ http://113.25.105.102:10000/rtp/239.1.1.116:8116
 http://113.25.105.102:10000/rtp/239.1.1.110:8110
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://010.112114.xyz/logo/老故事.png" group-title="中数传媒",老故事
 http://113.25.105.102:10000/rtp/239.1.1.87:8087
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://010.112114.xyz/logo/老故事.png" group-title="中数传媒",老故事
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8国外频道2026-06-17
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://010.112114.xyz/logo/老故事.png" group-title="中数传媒",老故事
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://010.112114.xyz/logo/老故事.png" group-title="中数传媒",老故事
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://010.112114.xyz/logo/老故事.png" group-title="中数传媒",老故事
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://010.112114.xyz/logo/老故事.png" group-title="中数传媒",老故事
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://010.112114.xyz/logo/老故事.png" group-title="中数传媒",老故事
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://010.112114.xyz/logo/老故事.png" group-title="中数传媒",老故事
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8旭宝宝2026-06-17
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://010.112114.xyz/logo/快乐垂钓.png" group-title="中数传媒",快乐垂钓
 http://116.233.38.8:8888/rtp/233.18.204.42:5140
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://010.112114.xyz/logo/快乐垂钓.png" group-title="中数传媒",快乐垂钓
@@ -559,5 +573,5 @@ url
 url
 #EXTINF:-1 tvg-name="百事通动画4K" tvg-logo="https://010.112114.xyz/logo/百事通动画4K.png" group-title="content.no_result_channel_genre",百事通动画4K
 url
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-06-17 21:39:28
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://010.112114.xyz/logo/五星体育.png" group-title="🕘️更新时间",2026-06-18 07:20:11
 http://116.233.38.8:8888/rtp/233.18.204.177:5140
